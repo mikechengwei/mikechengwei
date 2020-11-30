@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning kubernetes and focus cloud native.
+- 📫 How to reach me: mike.cwwmy@gmail.com
+
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=radical) 
