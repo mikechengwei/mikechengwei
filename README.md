@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning kubernetes and focusing on bigdata component going to cloud.
+- 🔭 My personal technical summary article sharing: https://www.infoq.cn/article/mxPc2rQXMWbWJYPS5mIH
 - 📫 How to reach me: mike.cwwmy@gmail.com
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=radical) 
