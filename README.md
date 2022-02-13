@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mike.cwwmy@gmail.com
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=radical) 
+
+### Recent Blog posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
