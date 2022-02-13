@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=radical) 
 
 ### Recent Blog posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
