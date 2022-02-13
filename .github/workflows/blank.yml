@@ -1,29 +1,18 @@
-name: Blog posts on ReadMe
+name: Blog Posts
+
 on:
+  # Run workflow automatically
   schedule:
-    # Runs every day at 9am UTC
-    - cron: '0 0 * * *'
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
 
 jobs:
-  build:
-    # The type of runner that the job will run on
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: mikechengwei/mikechengwei@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_url: https://mikechengwei.github.io/atom.xml
-          count: 10
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'mikechengwei'
-            git config --global user.email '842725815@qq.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README" 
-      - name: Push changes
-        uses: mikechengwei/mikechengwei@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # comma-separated list of RSS feed urls
+          feed_list: "https://mikechengwei.github.io/atom.xml"
