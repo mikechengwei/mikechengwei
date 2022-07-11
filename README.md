@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [常见的几种分布式协议](http://mikechengwei.github.io/2022/07/02/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%8F%E8%AE%AE/)
+- [Raft协议（论文学习）](http://mikechengwei.github.io/2022/07/02/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%8F%E8%AE%AE/)
 - [golang-gorouting通信](http://mikechengwei.github.io/2022/06/02/golang-gorouting%E9%80%9A%E4%BF%A1/)
 - [LevelDB RocksDB Boltdb Compare](http://mikechengwei.github.io/2022/04/19/LevelDB%20RocksDB%20Boltdb%20Compare/)
 - [看Elasticsearch-Operator-有感](http://mikechengwei.github.io/2021/08/12/%E7%9C%8B-Elasticsearch-Operator-%E6%9C%89%E6%84%9F/)
