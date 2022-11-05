@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [什么是列式存储](http://mikechengwei.github.io/2022/11/04/%E4%BB%80%E4%B9%88%E6%98%AF%E5%88%97%E5%BC%8F%E5%AD%98%E5%82%A8/)
 - [pingcap2022-hackathon-SaaS多租户解决方案](http://mikechengwei.github.io/2022/09/25/pingcap2022-hackathon-SaaS%E5%A4%9A%E7%A7%9F%E6%88%B7%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 - [Rocksdb_源码分析](http://mikechengwei.github.io/2022/09/05/Rocksdb-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 - [Raft协议（论文学习）](http://mikechengwei.github.io/2022/07/02/Raft%E5%8D%8F%E8%AE%AE/)
 - [golang-gorouting通信](http://mikechengwei.github.io/2022/06/02/golang-gorouting%E9%80%9A%E4%BF%A1/)
-- [LevelDB RocksDB Boltdb Compare](http://mikechengwei.github.io/2022/04/19/LevelDB%20RocksDB%20Boltdb%20Compare/)
 <!-- BLOG-POST-LIST:END -->
