@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🔭 My personal technical summary article sharing: https://www.infoq.cn/article/mxPc2rQXMWbWJYPS5mIH
 - 📫 How to reach me: mike.cwwmy@gmail.com
 
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikechengwei&theme=react&line_height=40&hide=css"/> </a>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=transparent)
 
 ### Recent Blog posts
