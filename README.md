@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - 🔭 My personal technical summary article sharing: https://www.infoq.cn/article/mxPc2rQXMWbWJYPS5mIH
 - 📫 How to reach me: mike.cwwmy@gmail.com
 
-    <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=transparent"/> </a>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&theme=transparent)
+[mikechengwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikechengwei&show_icons=true&bg_color=00000000)
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
